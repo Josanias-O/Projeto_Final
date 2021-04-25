@@ -31,8 +31,8 @@ A aplicação consiste visualizar o cenário de como esta os dados de COVID pelo
 ## Agradecimentos
 - Unilever Brasil pela oportunidade de realizar o curso
 - Ironhack Bootcamp de São Paulo
-- Raiana Rocha, Teacher
-- Guilherme cuzner, Teacher assistent
+- Raiana Rocha, Teacher (https://br.linkedin.com/in/raiana-rocha)
+- Guilherme cuzner, Teacher assistent 
 
 
 # Autor
