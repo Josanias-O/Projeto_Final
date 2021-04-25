@@ -25,18 +25,29 @@ A aplicação consiste visualizar o cenário de como esta os dados de COVID pelo
 - PowerBI
 
 ## Fonte de dados
-- 
+- Our World in Data (Via GitHub)
+  https://github.com/owid/covid-19-data
 
+- Worldometers
+  https://www.worldometers.info/coronavirus/
+
+- Coronavirus Brasil
+  https://covid.saude.gov.br/
 
 ## Agradecimentos
 - Unilever Brasil pela oportunidade de realizar o curso
+
 - Ironhack Bootcamp de São Paulo
-- Raiana Rocha, Teacher (https://br.linkedin.com/in/raiana-rocha)
-- Guilherme cuzner, Teacher assistent 
+  https://www.ironhack.com/br/sao-paulo
+  
+- Raiana Rocha, Teacher 
+  https://br.linkedin.com/in/raiana-rocha
+  
+- Guilherme cuzner, Teacher assistent
+  https://br.linkedin.com/in/guilhermecuzner
 
 
 # Autor
 
 Josanias Boshammer de Oliveira
-
 https://br.linkedin.com/in/josanias-boshammer
