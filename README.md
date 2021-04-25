@@ -1,6 +1,6 @@
 # Projeto_Final
 
-# Analise de Dados COvid-19
+# Analise de Dados Covid-19
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Josanias-O/Projeto_Final/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -10,7 +10,7 @@ https://app.powerbi.com/groups/me/reports/231b5099-40f6-406c-99b0-12b646092ed9?p
 Analise de dados sobre o Covid-19, com busca enfase em visualização dos dados.
 Trabalho realizado como projeto final do curso de Data Analytics pela Ironhack.
 
-A aplicação consiste visualizar o cenário de como esta os dados de COVID pelo mundo e com uma pagina para analisar apenas em nosso país (Brasil), onde os dados são coletados do GitHUB (Link abaixo das referencias), e depois são importados para o POwerBI, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste visualizar o cenário de como esta os dados de COVID pelo mundo e com uma pagina para analisar apenas em nosso país (Brasil), onde os dados são coletados do GitHUB (Link abaixo das referencias), e depois são importados para o PowerBI, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Visualização Web
 ![Capturar](https://user-images.githubusercontent.com/71883720/115997627-28169200-a5ba-11eb-8741-5101b615af86.PNG)
