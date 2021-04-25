@@ -12,7 +12,7 @@ Trabalho realizado como projeto final do curso de Data Analytics pela Ironhack.
 
 A aplicação consiste visualizar o cenário de como esta os dados de COVID pelo mundo e com uma pagina para analisar apenas em nosso país (Brasil), onde os dados são coletados do GitHUB (Link abaixo das referencias), e depois são importados para o POwerBI, que também apresenta um dashboard com gráficos baseados nestes dados.
 
-## Layout web
+## Visualização Web
 ![Capturar](https://user-images.githubusercontent.com/71883720/115997627-28169200-a5ba-11eb-8741-5101b615af86.PNG)
 
 # Tecnologias utilizadas
